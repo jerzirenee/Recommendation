@@ -26,3 +26,4 @@ In my opinion, The Dell Inspiron 15 5000 Laptop is the recommended choice. It of
  The Intel Core i5-1135G7 CPU provides superior processing power compared to the Athlon Silver 7120U, allowing for smoother multitasking and better overall performance.
  Additionally, the Dell laptop meets all the specified requirements and is priced below $700, making it a suitable choice for the organization's needs
 
+ [ Dell Inspiron 15 5000]![51hMv8Pjz8L _AC_SX679_](https://github.com/jerzirenee/Recommendation/assets/139245504/44d1db4e-3fb3-460f-abca-1a86b16be120)
