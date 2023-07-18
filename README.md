@@ -25,4 +25,4 @@ Reasons why this option is **better** than the CFO's recommended laptop:
 In my opinion, The Dell Inspiron 15 5000 Laptop is the recommended choice. It offers a good balance of performance, storage, and cost-effectiveness.
  The Intel Core i5-1135G7 CPU provides superior processing power compared to the Athlon Silver 7120U, allowing for smoother multitasking and better overall performance.
  Additionally, the Dell laptop meets all the specified requirements and is priced below $700, making it a suitable choice for the organization's needs.
-![[Dell Inspiron 15 5000 Laptop.webp]
+
