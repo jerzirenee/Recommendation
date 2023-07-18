@@ -27,3 +27,6 @@ In my opinion, The Dell Inspiron 15 5000 Laptop is the recommended choice. It of
  Additionally, the Dell laptop meets all the specified requirements and is priced below $700, making it a suitable choice for the organization's needs
 
  [ Dell Inspiron 15 5000]![51hMv8Pjz8L _AC_SX679_](https://github.com/jerzirenee/Recommendation/assets/139245504/44d1db4e-3fb3-460f-abca-1a86b16be120)
+
+[Dell Inspiron 15 5000}
+(https://www.bestbuy.com/site/dell-inspiron-15-6-touch-laptop-intel-core-i5-8gb-memory-256gb-solid-state-drive-carbon-black/6543752.p?skuId=6543752&extStoreId=513&ref=212&loc=1&gclid=Cj0KCQjw8NilBhDOARIsAHzpbLBux4rge3KSoef1Nj3vcvp6BZUl9Pm0XpugpE9yD7fH9MAAivZinEsaAuM7EALw_wcB&gclsrc=aw.ds)
